@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Aleo');
+footer{
+    position: relative;
+}
+  
+.ull{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.lii{
+    float: left;
+}
+.lii div{
+    text-align: center;
+}
+#normal{
+    background-color: #48D1CC;
+    color: white;
+    padding: 16px 32px;
+    font-family: 'Aleo', serif;
+    font-size: 30px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+    width: 350px;
+    height: 200px;
+}
+#normal:hover{
+    background-color: #40E0D0;
+}
+#atencao{
+    background-color:#FFD700 ;
+    color: white;
+    padding: 16px 32px;
+    font-family: 'Aleo', serif;
+    font-size: 30px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+    width: 350px;
+    height: 200px;
+}
+#atencao:hover{
+    background-color: #FFFF00;
+}
+#grave{
+    background-color:#FF4500 ;
+    color: white;
+    padding: 16px 32px;
+    font-size: 30px;
+    font-family: 'Aleo', serif;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+    width: 350px;
+    height: 200px;
+}
+#grave:hover{
+    background-color: #FF0000;
+}
+#log{
+    font-family: 'Aleo', serif;
+    font-size: 30px;
+   
+}
+#sair{
+    font-family: 'Aleo', serif;
+}
